@@ -1,7 +1,7 @@
-# MonkePluginManager
+# GorillaPluginManager
 This Application Is Inspired By MonkeModManager
 
-MonkePluginManager Is A Improved Version Of MonkeModManager **(Defunct)**
+GorillaPluginManager Is A Improved Version Of MonkeModManager **(Defunct)**
 
 This Is Used For Modding The VR Game Gorilla Tag.
 
